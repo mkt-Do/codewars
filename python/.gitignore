@@ -1,0 +1,3 @@
+venv/
+codewars/__pycache__/
+tests/__pycache__/
