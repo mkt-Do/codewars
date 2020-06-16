@@ -1,3 +1,4 @@
+mod build_square;
 mod convert_boolean_to_string;
 mod exes_and_ohs;
 mod high_and_low;
