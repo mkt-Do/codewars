@@ -6,6 +6,7 @@ mod first_multiples;
 mod high_and_low;
 mod remove_string_space;
 mod round_up_next_multiple_5;
+mod search_for_letters;
 mod sequence_num;
 mod shortest_word;
 mod to_leet_speak;
