@@ -6,6 +6,7 @@ mod find_middle_element;
 mod find_non_consecutive;
 mod first_multiples;
 mod high_and_low;
+mod limit_string_1;
 mod longest_vowel_chain;
 mod remove_string_space;
 mod round_up_next_multiple_5;
