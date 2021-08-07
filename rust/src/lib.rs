@@ -1,6 +1,7 @@
 mod build_square;
 mod convert_boolean_to_string;
 mod custom_fizzbuzz_array;
+mod even_and_odd;
 mod exes_and_ohs;
 mod find_middle_element;
 mod find_non_consecutive;
