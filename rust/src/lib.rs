@@ -2,6 +2,7 @@ mod build_square;
 mod convert_boolean_to_string;
 mod custom_fizzbuzz_array;
 mod exes_and_ohs;
+mod find_middle_element;
 mod find_non_consecutive;
 mod first_multiples;
 mod high_and_low;
