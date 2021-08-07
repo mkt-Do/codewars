@@ -10,5 +10,6 @@ mod remove_string_space;
 mod round_up_next_multiple_5;
 mod search_for_letters;
 mod sequence_num;
+mod series_m_to_n;
 mod shortest_word;
 mod to_leet_speak;
