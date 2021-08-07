@@ -9,6 +9,7 @@ mod first_multiples;
 mod high_and_low;
 mod limit_string_1;
 mod longest_vowel_chain;
+mod max_min_array;
 mod remove_string_space;
 mod round_up_next_multiple_5;
 mod search_for_letters;
