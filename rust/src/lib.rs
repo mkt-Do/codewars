@@ -20,3 +20,4 @@ mod series_m_to_n;
 mod shortest_word;
 mod to_leet_speak;
 mod to_time_from_second;
+mod word_mesh;
