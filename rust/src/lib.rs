@@ -12,6 +12,7 @@ mod limit_string_1;
 mod longest_vowel_chain;
 mod max_min_array;
 mod product_of_maximum_of_array;
+mod projectile_motion;
 mod remove_string_space;
 mod round_up_next_multiple_5;
 mod search_for_letters;
