@@ -10,6 +10,7 @@ mod first_multiples;
 mod high_and_low;
 mod limit_string_1;
 mod longest_vowel_chain;
+mod lottery_ticket;
 mod max_min_array;
 mod product_of_maximum_of_array;
 mod projectile_motion;
