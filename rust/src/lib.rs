@@ -1,4 +1,5 @@
 mod balanced_number;
+mod bleatrix_trotter;
 mod build_square;
 mod convert_boolean_to_string;
 mod custom_fizzbuzz_array;
