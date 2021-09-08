@@ -1,3 +1,4 @@
+mod array_diff;
 mod balanced_number;
 mod bleatrix_trotter;
 mod build_square;
